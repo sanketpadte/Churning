@@ -1,4 +1,4 @@
-st,acclen,arcode,intplan,voice,nummailmes,phnum,tdmin,temin,tdcal,tdchar,tecal,tecahr,tnmin,tncal,tnchar,timin,tical,ticharncsc,label,CHk
+State,Account Length,Area Code,Int'l Plan,VMail Plan,VMail Message,Phone,Day Mins,Eve Mins,Day Calls,Day Charge,Eve Calls,Eve Charge,Night Mins,Night Calls,Night Charge,Intl Mins,Intl Calls,Intl Charge,CustServ Calls,Churn?
 KS,128,415,no,yes,25,382-4657,265.1,197.4,110,45.07,99,16.78,244.7,91,11.01,10,3,2.7,1,0
 OH,107,415,no,yes,26,371-7191,161.6,195.5,123,27.47,103,16.62,254.4,103,11.45,13.7,3,3.7,1,0
 NJ,137,415,no,no,0,358-1921,243.4,121.2,114,41.38,110,10.3,162.6,104,7.32,12.2,5,3.29,0,0
